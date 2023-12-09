@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20!%20%F0%9F%99%8F&height=150&section=header"/>
 </p>
-
 <h1 align="center">
   👋 Hi there, I'm Nonish J. 
 </h1>
