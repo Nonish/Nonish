@@ -96,7 +96,7 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 
 ![](https://github-readme-stats.vercel.app/api?username=Nonish&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nonish&theme=dark&hide_border=false)<br/>
-![](github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nonish&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nonish&theme=nord_dark)
 
 <h2 align="left">🏆 GitHub Trophies</h2>
 
