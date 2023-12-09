@@ -57,11 +57,11 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 
 <h5>Frameworks & Libraries :</h5>
   
- ![React](https://img.shields.io/static/v1?style=for-the-badge&message=Reactt&color=#61DAFB&logo=react&logoColor=FFFFFF&label=)
- ![Next](https://img.shields.io/static/v1?style=for-the-badge&message=Next.JS&color=#000000&logo=nextdotjs&logoColor=FFFFFF&label=)
- ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=#764ABC&logo=redux&logoColor=FFFFFF&label=)
- ![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCSS&color=#06B6D4&logo=tailwindcss&logoColor=FFFFFF&label=)
- ![MUI](https://img.shields.io/static/v1?style=for-the-badge&message=MaterialUI&color=#007FFF&logo=mui&logoColor=FFFFFF&label=)
+ ![React](https://img.shields.io/static/v1?style=for-the-badge&message=Reactt&color=61DAFB&logo=react&logoColor=FFFFFF&label=)
+ ![Next](https://img.shields.io/static/v1?style=for-the-badge&message=Next.JS&color=000000&logo=nextdotjs&logoColor=FFFFFF&label=)
+ ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=redux&logoColor=FFFFFF&label=)
+ ![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCSS&color=06B6D4&logo=tailwindcss&logoColor=FFFFFF&label=)
+ ![MUI](https://img.shields.io/static/v1?style=for-the-badge&message=MaterialUI&color=007FFF&logo=mui&logoColor=FFFFFF&label=)
  
 
 <h5>Tools & Miscellaneous :</h5>x`  
