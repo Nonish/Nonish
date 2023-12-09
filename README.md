@@ -55,7 +55,7 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 
 ---
 
-<h2 align="left">📈 &nbsp;Tech Stacks</h2>
+<h2 align="left">💻 &nbsp;Tech Stacks</h2>
 
 <h5>Languages : </h5>
  ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
@@ -88,17 +88,17 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 ---
 
 <h2 align="left">📈 &nbsp;Github Stats</h2>
-![](https://github-readme-stats.vercel.app/api?username=nonish&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nonish&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nonish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Nonish&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nonish&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2 align="left">🏆 GitHub Trophies</h2>
-![](https://github-profile-trophy.vercel.app/?username=nonish&theme=flat&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Nonish&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 <h2 align="left">  ✍️ Random Dev Quote</h2>
-![](https://github-contributor-stats.vercel.app/api?username=kanugurajesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Nonish&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <h2 align="left"> 😂 Random Dev Meme</h2>
 <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
