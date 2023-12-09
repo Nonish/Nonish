@@ -94,7 +94,7 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 
 <h2 align="left">🏆 GitHub Trophies</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=Nonish&theme=merko&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Nonish&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
 <h2 align="left">  ✍️ Random Dev Quote</h2>
 
