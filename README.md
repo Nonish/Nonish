@@ -98,7 +98,7 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 
 <h2 align="left">  ✍️ Random Dev Quote</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <h2 align="left"> 😂 Random Dev Meme</h2>
 
