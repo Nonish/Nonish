@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20!%20%F0%9F%99%8F&height=150&section=header"/>
 </p>
 
-<h1 align="left">
+<h1 align="center">
   👋 Hi there, I'm Nonish J. 
 </h1>
 
@@ -56,11 +56,15 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 <h2 align="left">💻 &nbsp;Tech Stacks</h2>
 
 <h5>Languages : </h5>
+<p>
+  
  ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=) 
  ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=) 
  ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=) 
  ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=) 
  ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=) 
+ 
+</p>
 
 <h5>Frameworks & Libraries :</h5>
  ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=FF6C37&logo=react&logoColor=FFFFFF&label=)
