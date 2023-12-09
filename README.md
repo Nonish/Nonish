@@ -26,8 +26,6 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 
 ## <!-- - 📯 Quote **If at first you don't succeed, call it version 0.1!** -->
 
----
-
 <h2> Let's Connect and have a Chat!💬</h2>
 
 <p align="left">
@@ -50,8 +48,6 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
-
----
 
 <h2 align="left">💻 &nbsp;Tech Stacks</h2>
 
@@ -90,23 +86,19 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
   ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=47A248&logo=ubuntu&logoColor=FFFFFF&label=)
   ![Window](https://img.shields.io/static/v1?style=for-the-badge&message=Window&color=47A248&logo=window&logoColor=FFFFFF&label=)
 
----
-
 <h2 align="left">📈 &nbsp;Github Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=Nonish&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nonish&theme=dark&hide_border=false)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nonish&theme=nord_dark)
+![](https://github-readme-stats.vercel.app/api?username=Nonish&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nonish&theme=merko&hide_border=false)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nonish&theme=merko)
 
 <h2 align="left">🏆 GitHub Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=Nonish&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
----
-
 <h2 align="left">  ✍️ Random Dev Quote</h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=Nonish&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h2 align="left"> 😂 Random Dev Meme</h2>
 
