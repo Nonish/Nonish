@@ -6,8 +6,6 @@
   👋 Hi there, I'm Nonish J. 
 </h1>
 
----
-
 <h2 align="left"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and am interested in create, build, maintain and collaborate to MERN stacks project to optimized and enhanced user experience. Do stop by and have a look at my [portfolio](https://nonishjain97.dorik.io/) too. 😀
@@ -58,11 +56,11 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 <h2 align="left">💻 &nbsp;Tech Stacks</h2>
 
 <h5>Languages : </h5>
- ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
- ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
- ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
- ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
- ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
+ ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=) 
+ ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=) 
+ ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=) 
+ ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=) 
+ ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=) 
 
 <h5>Frameworks & Libraries :</h5>
  ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=FF6C37&logo=react&logoColor=FFFFFF&label=)
