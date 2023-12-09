@@ -63,7 +63,7 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
  ![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCSS&color=06B6D4&logo=tailwindcss&logoColor=FFFFFF&label=)
  ![MUI](https://img.shields.io/static/v1?style=for-the-badge&message=MaterialUI&color=007FFF&logo=mui&logoColor=FFFFFF&label=)
 
-<h5>Tools & Miscellaneous :</h5>x`  
+<h5>Tools & Miscellaneous :</h5>
   
   ![Node](https://img.shields.io/static/v1?style=for-the-badge&message=NodeJs&color=47A248&logo=nodedotjs&logoColor=FFFFFF&label=)
   ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=git&logoColor=FFFFFF&label=)
