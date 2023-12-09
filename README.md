@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20!%20%F0%9F%99%8F&height=150&section=header"/>
 </p>
 <h1 align="center">
-  👋 Hi there, I'm Nonish J. 
+  👋 Hi there, I'm Nonish Jain. 
 </h1>
 
 <h2 align="left"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -24,6 +24,7 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 - 🐸 Fun fact **There are only two hard things in Computer Science: cache invalidation and naming things -_Phil Karlton_**
 
 ## <!-- - 📯 Quote **If at first you don't succeed, call it version 0.1!** -->
+## <!-- - Fun fact _Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)_ -->
 
 <h2> Let's Connect and have a Chat!💬</h2>
 
