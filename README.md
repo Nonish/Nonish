@@ -22,10 +22,8 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 <!-- - 🖊️ Read my technical blogs <a href="https://nanu02d8.medium.com/" target="_blank">here</a>  on Medium.com -->
 
 - 🐸 Fun fact **There are only two hard things in Computer Science: cache invalidation and naming things -_Phil Karlton_**
-## <!-- - 📯 Quote **If at first you don't succeed, call it version 0.1!** -->
-## <!-- - Fun fact _Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)_ -->
-<h2> Let's Connect and have a Chat!💬</h2>
 
+<h2> Let's Connect and have a Chat!💬</h2>
 <p align="left">
 <a href="https://nonishjain97.dorik.io/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
