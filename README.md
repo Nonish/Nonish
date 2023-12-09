@@ -57,30 +57,29 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 
 <h5>Frameworks & Libraries :</h5>
   
- ![React](https://img.shields.io/static/v1?style=for-the-badge&message=Reactt&color=61DAFB&logo=react&logoColor=FFFFFF&label=)
+ ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=61DAFB&logo=react&logoColor=FFFFFF&label=)
  ![Next](https://img.shields.io/static/v1?style=for-the-badge&message=Next.JS&color=000000&logo=nextdotjs&logoColor=FFFFFF&label=)
  ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=redux&logoColor=FFFFFF&label=)
  ![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCSS&color=06B6D4&logo=tailwindcss&logoColor=FFFFFF&label=)
  ![MUI](https://img.shields.io/static/v1?style=for-the-badge&message=MaterialUI&color=007FFF&logo=mui&logoColor=FFFFFF&label=)
- 
 
 <h5>Tools & Miscellaneous :</h5>x`  
   
-  ![Node](https://img.shields.io/static/v1?style=for-the-badge&message=NodeJs&color=47A248&logo=node&logoColor=FFFFFF&label=)
-  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=47A248&logo=git&logoColor=FFFFFF&label=)
-  ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=47A248&logo=postman&logoColor=FFFFFF&label=)
-  ![VSCode](https://img.shields.io/static/v1?style=for-the-badge&message=VSCode&color=47A248&logo=vscode&logoColor=FFFFFF&label=)
-  ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=jira&logoColor=FFFFFF&label=)
+  ![Node](https://img.shields.io/static/v1?style=for-the-badge&message=NodeJs&color=47A248&logo=nodedotjs&logoColor=FFFFFF&label=)
+  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=git&logoColor=FFFFFF&label=)
+  ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=postman&logoColor=FFFFFF&label=)
+  ![VSCode](https://img.shields.io/static/v1?style=for-the-badge&message=VSCode&color=007ACC&logo=visualstudiocode&logoColor=FFFFFF&label=)
+  ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=jirasoftware&logoColor=FFFFFF&label=)
 
 
 <h5> Databases & ORMs :</h5>
   
-  ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+  ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF&label=)
   
 <h5> OSs & Platforms :</h5>
   
-  ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=47A248&logo=ubuntu&logoColor=FFFFFF&label=)
-  ![Window](https://img.shields.io/static/v1?style=for-the-badge&message=Window&color=47A248&logo=window&logoColor=FFFFFF&label=)
+  ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=ubuntu&logoColor=FFFFFF&label=)
+  ![Window](https://img.shields.io/static/v1?style=for-the-badge&message=Window&color=0078D6&logo=windows10&logoColor=FFFFFF&label=)
 
 <h2 align="left">📈 &nbsp;Github Stats</h2>
 
