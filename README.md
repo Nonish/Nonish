@@ -57,14 +57,14 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 
 <h5>Frameworks & Libraries :</h5>
   
- ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=FF6C37&logo=react&logoColor=FFFFFF&label=)
- ![Next](https://img.shields.io/static/v1?style=for-the-badge&message=Next&color=FF6C37&logo=next&logoColor=FFFFFF&label=)
- ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=FF6C37&logo=redux&logoColor=FFFFFF&label=)
- ![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind&color=FF6C37&logo=tailwind&logoColor=FFFFFF&label=)
- ![MUI](https://img.shields.io/static/v1?style=for-the-badge&message=MaterialUI&color=FF6C37&logo=mui&logoColor=FFFFFF&label=)
+ ![React](https://img.shields.io/static/v1?style=for-the-badge&message=Reactt&color=#61DAFB&logo=react&logoColor=FFFFFF&label=)
+ ![Next](https://img.shields.io/static/v1?style=for-the-badge&message=Next.JS&color=#000000&logo=nextdotjs&logoColor=FFFFFF&label=)
+ ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=#764ABC&logo=redux&logoColor=FFFFFF&label=)
+ ![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCSS&color=#06B6D4&logo=tailwindcss&logoColor=FFFFFF&label=)
+ ![MUI](https://img.shields.io/static/v1?style=for-the-badge&message=MaterialUI&color=#007FFF&logo=mui&logoColor=FFFFFF&label=)
  
 
-<h5>Tools & Miscellaneous :</h5>
+<h5>Tools & Miscellaneous :</h5>x`  
   
   ![Node](https://img.shields.io/static/v1?style=for-the-badge&message=NodeJs&color=47A248&logo=node&logoColor=FFFFFF&label=)
   ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=47A248&logo=git&logoColor=FFFFFF&label=)
@@ -101,5 +101,5 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
 </p>
