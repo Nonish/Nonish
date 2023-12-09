@@ -56,53 +56,60 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 <h2 align="left">💻 &nbsp;Tech Stacks</h2>
 
 <h5>Languages : </h5>
-<p>
   
  ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=) 
  ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=) 
  ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=) 
  ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=) 
  ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=) 
- 
-</p>
 
 <h5>Frameworks & Libraries :</h5>
+  
  ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=FF6C37&logo=react&logoColor=FFFFFF&label=)
  ![Next](https://img.shields.io/static/v1?style=for-the-badge&message=Next&color=FF6C37&logo=next&logoColor=FFFFFF&label=)
  ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=FF6C37&logo=redux&logoColor=FFFFFF&label=)
  ![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind&color=FF6C37&logo=tailwind&logoColor=FFFFFF&label=)
  ![MUI](https://img.shields.io/static/v1?style=for-the-badge&message=MaterialUI&color=FF6C37&logo=mui&logoColor=FFFFFF&label=)
+ 
 
 <h5>Tools & Miscellaneous :</h5>
+  
   ![Node](https://img.shields.io/static/v1?style=for-the-badge&message=NodeJs&color=47A248&logo=node&logoColor=FFFFFF&label=)
   ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=47A248&logo=git&logoColor=FFFFFF&label=)
   ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=47A248&logo=postman&logoColor=FFFFFF&label=)
   ![VSCode](https://img.shields.io/static/v1?style=for-the-badge&message=VSCode&color=47A248&logo=vscode&logoColor=FFFFFF&label=)
   ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=jira&logoColor=FFFFFF&label=)
 
-<h5> Databases & ORMs :</h5>
-  ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 
+<h5> Databases & ORMs :</h5>
+  
+  ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+  
 <h5> OSs & Platforms :</h5>
+  
   ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=47A248&logo=ubuntu&logoColor=FFFFFF&label=)
   ![Window](https://img.shields.io/static/v1?style=for-the-badge&message=Window&color=47A248&logo=window&logoColor=FFFFFF&label=)
 
 ---
 
 <h2 align="left">📈 &nbsp;Github Stats</h2>
+
 ![](https://github-readme-stats.vercel.app/api?username=Nonish&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nonish&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonish&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2 align="left">🏆 GitHub Trophies</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=Nonish&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 <h2 align="left">  ✍️ Random Dev Quote</h2>
+
 ![](https://github-contributor-stats.vercel.app/api?username=Nonish&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <h2 align="left"> 😂 Random Dev Meme</h2>
+
 <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
 <p align="center">
