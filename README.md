@@ -34,9 +34,9 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 <!-- <a href="https://nonish.medium.com/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a> -->
-<!-- <a href="https://dev.to/nonish">
+<a href="https://dev.to/nonish">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-</a> -->
+</a>
 <a href="https://twitter.com/__nonish/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
