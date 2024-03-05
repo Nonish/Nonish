@@ -7,7 +7,7 @@
 
 <h2 align="left"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and am interested in create, build, maintain and collaborate to MERN stacks project to optimized and enhanced user experience. Do stop by and have a look at my [portfolio](https://nonishjain97.dorik.io/) too. 😀
+I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and am interested in create, build, maintain and collaborate to MERN stacks project to optimized and enhanced user experience. Do stop by and have a look at my [portfolio](https://portfolio-nonish.vercel.app/) too. 😀
 
 - 🔭 I’m currently working at [Pickzon](https://pickzon.com/) as Frontend Developer.
 
