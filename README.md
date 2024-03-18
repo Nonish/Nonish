@@ -23,7 +23,7 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 
 - 🐸 Fun fact **There are only two hard things in Computer Science: cache invalidation and naming things -_Phil Karlton_**
 
-<h2> Let's Connect and have a Chat!💬</h2>
+<h2>💬 Let's Connect and have a Chat!</h2>
 <p align="left">
 <a href="https://portfolio-nonish.vercel.app/>
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
