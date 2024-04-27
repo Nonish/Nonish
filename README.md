@@ -95,10 +95,11 @@ I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and a
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+<!--
 <h2 align="left"> 😂 Random Dev Meme</h2>
 
 <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
-
+-->
 <a href="https://www.buymeacoffee.com/nonish">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200px" height="auto"/>
 </a>
