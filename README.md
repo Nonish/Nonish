@@ -7,21 +7,21 @@
 
 <h2 align="left"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-I'm a **MERN stack developer** from **India 🇮🇳**. I love programming and am interested in create, build, maintain and collaborate to MERN stacks project to optimized and enhanced user experience. Do stop by and have a look at my [portfolio](https://portfolio-nonish.vercel.app/) too. 😀
+I'm a **Software Engineer** from **India 🇮🇳**. I love programming and am interested in create, build, maintain and collaborate to MERN stacks project to optimized and enhanced user experience. Do stop by and have a look at my [portfolio](https://portfolio-nonish.vercel.app/) too. 😀
 
-- 🔭 I’m currently working at [Pickzon](https://pickzon.com/) as Frontend Developer.
+- 🔭 I’m currently working at [RapidShyp](https://www.rapidshyp.com/) as UI Developer.
 
-- 🌱 I’m currently learning **Next Js & Typescript**
+- 🌱 I’m currently learning **React Native & Typescript**
 
-- 👯 I’m looking to collaborate on **React.js based projects**
+- 👯 I’m looking to collaborate on **MERN based projects**
 
-- 💬 Ask me about **HTML5, CSS3, Redux-toolkit, Javascript(ES6), React.js, Node.js**
+- 💬 Ask me about **React.js, Next.js, HTML5, CSS3, TailwindCss, Sass, Node.js, Redux, Javascript(ES6), Typescript, MongoDB, GIT, A11Y.**
 
-- 📫 Reach me at **nonishjain97@gmail.com**
+- 📫 Reach me at **nonishjain97@gmail.com** or **nonish.dev@gmail.com**
 
 <!-- - 🖊️ Read my technical blogs <a href="https://nanu02d8.medium.com/" target="_blank">here</a>  on Medium.com -->
 
-- 🐸 Fun fact **There are only two hard things in Computer Science: cache invalidation and naming things -_Phil Karlton_**
+- 🐸 fun fact **There are only two hard things in Computer Science: cache invalidation and naming things -_Phil Karlton_**
 
 <h2>💬 Let's Connect and have a Chat!</h2>
 <p align="left">
