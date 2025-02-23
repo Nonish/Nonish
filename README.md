@@ -28,7 +28,7 @@ I'm a **Software Engineer** from **India 🇮🇳**. I love programming and am i
 <a href="https://portfolio-nonish.vercel.app/>
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
-<a href="https://www.linkedin.com/in/nonish-jain-707397169">
+<a href="https://www.linkedin.com/in/nonish">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <!-- <a href="https://nonish.medium.com/">
@@ -83,9 +83,10 @@ I'm a **Software Engineer** from **India 🇮🇳**. I love programming and am i
 
 <h2 align="left">📈 &nbsp;Github Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=Nonish&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Nonish&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nonish&theme=merko&hide_border=false)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nonish&theme=merko)
+<div style="float: right;"> <img src="https://komarev.com/ghpvc/?username=nonish&label=Profile%20views&color=0e75b6&style=flat" alt="nonish" /> </div>
 
 <h2 align="left">🏆 GitHub Trophies</h2>
 
@@ -97,9 +98,9 @@ I'm a **Software Engineer** from **India 🇮🇳**. I love programming and am i
 
 <!--
 <h2 align="left"> 😂 Random Dev Meme</h2>
-
 <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 -->
+
 <a href="https://www.buymeacoffee.com/nonish">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200px" height="auto"/>
 </a>
@@ -107,3 +108,5 @@ I'm a **Software Engineer** from **India 🇮🇳**. I love programming and am i
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </p>
+
+
