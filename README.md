@@ -7,7 +7,7 @@
 
 <h2 align="left"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-I'm a **Software Engineer** from **India 🇮🇳**. I love programming and am interested in create, build, maintain and collaborate to MERN stacks project to optimized and enhanced user experience. Do stop by and have a look at my [portfolio](https://portfolio-nonish.vercel.app/) too. 😀
+I'm a **Senior Software Engineer** from **India 🇮🇳**. I love programming and am interested in create, build, maintain and collaborate to project to optimized and enhanced user experience. Do stop by and have a look at my [portfolio](https://portfolio-nonish.vercel.app/) too. 😀
 
 - 🔭 I’m currently working at [Publicis Sapient](https://www.publicissapient.com/) as Senior Software Engineer.
 
