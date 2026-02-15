@@ -9,15 +9,15 @@
 
 I'm a **Software Engineer** from **India 🇮🇳**. I love programming and am interested in create, build, maintain and collaborate to MERN stacks project to optimized and enhanced user experience. Do stop by and have a look at my [portfolio](https://portfolio-nonish.vercel.app/) too. 😀
 
-- 🔭 I’m currently working at [RapidShyp](https://www.rapidshyp.com/) as UI Developer.
+- 🔭 I’m currently working at [Publicis Sapient](https://www.publicissapient.com/) as Senior Software Engineer.
 
-- 🌱 I’m currently learning **React Native & Typescript**
+- 🌱 I’m currently learning **React Native & Motion Design**
 
 - 👯 I’m looking to collaborate on **MERN based projects**
 
-- 💬 Ask me about **React.js, Next.js, HTML5, CSS3, TailwindCss, Sass, Node.js, Redux, Javascript(ES6), Typescript, MongoDB, GIT, A11Y.**
+- 💬 Ask me about **Next.js, React.js, TailwindCss, Node.js, Redux, Javascript(ES6), Typescript, MongoDB, GIT, A11Y.**
 
-- 📫 Reach me at **nonishjain97@gmail.com** or **nonish.dev@gmail.com**
+- 📫 Reach me at **nonish.dev@gmail.com**
 
 <!-- - 🖊️ Read my technical blogs <a href="https://nanu02d8.medium.com/" target="_blank">here</a>  on Medium.com -->
 
